@@ -517,7 +517,7 @@ img {
   padding: 10px 29px;
   margin-left: 12px;
 }
-.footer-form-subscribe {
+.footer-form {
   display: flex;
   flex-direction: row;
 }
